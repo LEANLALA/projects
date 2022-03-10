@@ -1,4 +1,4 @@
-from keys import *
+from keys import * #importing the API keys from keys.py
 from twython import TwythonStreamer
 import RPi.GPIO as gpio
 from time import sleep
